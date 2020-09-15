@@ -21,7 +21,7 @@ Models used:
 1. Ridge Regression
 2. Elastic Net
 3. Linear Support Vector Machine
-4. Random Forest Regression
+4. XGBoost Regression
 
 ### Evaluation:
 I used the Root Mean Squared Error to evaluate the model performance.
