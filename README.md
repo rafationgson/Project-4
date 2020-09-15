@@ -27,3 +27,4 @@ Models used:
 I used the Root Mean Squared Error to evaluate the model performance.
 
 ## Forecast Prediction:
+![alt text](https://github.com/[rafationgson]/[Project-4]/blob/[master]/image.jpg?raw=true)
