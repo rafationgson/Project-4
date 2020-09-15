@@ -26,5 +26,5 @@ Models used:
 ### Evaluation:
 I used the Root Mean Squared Error to evaluate the model performance.
 
-## Forecast Prediction:
+## Forecasted Deliveries for Weeks 146-155:
 ![Image](https://github.com/rafationgson/Project-4/blob/master/Food-Delivery-Forecast.png)
