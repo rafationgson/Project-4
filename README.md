@@ -10,10 +10,11 @@ Code used: Python, Matplotlib, Seaborn, Pandas, Numpy, Scikit Learn
 ## Data Exploration:
 Listed below are some of the most important insights from the dataset:
 1. Checkout and base price are negatively correlated with the number of orders. There were orders that were sold at a higher checkout price vs base price and so these did not perform well.
-2. The area of operations are positively correlated with the number of orders.
+2. The area of operations is positively correlated with the number of orders.
 3. The Indian cuisine deliveries had the highest average number of orders.
 4. Majority of the orders did not have an email promotion and were not featured on the company's homepage, but the items that did HAVE an email promotion or were featured on the homepage had a HIGHER average number of orders.
 5. The top four most popular food deliveries are rice bowls, sandwiches, beverages, and salads.
+6. Among the three food center types, Type B center had the highest average number of orders, while Type C had the lowest average number of orders.
 
 ## Machine Learning:
 I split the data set into 80% for training the model and 20% for testing the model.
