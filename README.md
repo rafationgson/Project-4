@@ -24,7 +24,15 @@ Models used:
 4. XGBoost Regression
 
 ### Evaluation:
-I used the Root Mean Squared Error to evaluate the model performance.
+I used the Root Mean Squared Error to evaluate the model performance:
+| Model          | Root Mean Squared Error | 
+|----------------|-------------------------|
+|Ridge Reg       |    285.5547913880647    |
+|Elastic Net Reg |    321.18917750771146   | 
+|Linear SVM      |    313.59953782203337   |
+|XGBoost Reg     |    166.63175507981836   |
+
+Based on the results, the XGBoost model was chosen to forecast demand on the data for the next 10 weeks.
 
 ## Forecasted Deliveries for Weeks 146-155:
 ![Image](https://github.com/rafationgson/Project-4/blob/master/Food-Delivery-Forecast.png)
